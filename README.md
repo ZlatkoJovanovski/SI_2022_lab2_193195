@@ -2,7 +2,7 @@
 
 Zlatko Jovanovski 193195
 
-2. CFG
+2.CFG
 
 ![silab2javaphoto](https://user-images.githubusercontent.com/102656383/171868495-b5cb2aeb-479e-4c06-b47c-91b4547ca3ef.jpg)
 ![silab2dijagram](https://user-images.githubusercontent.com/102656383/171868544-e27eadfc-c185-408d-a86c-f34f391b1ad4.png)
